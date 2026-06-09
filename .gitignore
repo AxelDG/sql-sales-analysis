@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+sales.db
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+
+# Optional logs
+*.log
