@@ -66,4 +66,4 @@ Advanced business KPIs (profit margin, discount impact)
 
 👤 Author
 
-Axel Godardo
+Axel Damian Godardo
